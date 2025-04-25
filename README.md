@@ -31,10 +31,10 @@ This project implements a **Medical Test Management System** using Python, desig
     ```bash
        python main.py 
 2. Follow the on-screen instructions to:
-- Add new medical test records.
-- Search for existing records.
-- Update or delete records.
-- Generate reports.
+   - Add new medical test records.
+   - Search for existing records.
+   - Update or delete records.
+   - Generate reports.
 
   ## File Structure
 /
