@@ -36,13 +36,5 @@ This project implements a **Medical Test Management System** using Python, desig
    - Update or delete records.
    - Generate reports.
 
-  ## File Structure
-
-      ├── main.py                # Entry point for the application
-      ├── database/              # Contains database management scripts or files
-      ├── utils/                 # Utility scripts for common functions
-      ├── tests/                 # Unit tests for the system
-      ├── requirements.txt       # Dependencies for the project
-      └── README.md              # Project documentation
 
 
