@@ -1,0 +1,6 @@
+Name: hgb; Range: g/dL; Unit: g/dL, Turnaround Time: 00-01-30
+Name: bgt; Range: mg/dL; Unit: mg/dL, Turnaround Time: 00-01-30
+Name: ldl; Range: mg/dL; Unit: mg/dL, Turnaround Time: 00-01-30
+Name: systole; Range: mm Hg; Unit: mm Hg, Turnaround Time: 00-01-30
+Name: diastole; Range: mm Hg; Unit: mm Hg, Turnaround Time: 00-01-30
+Name: mytest; Range: > 20, < 80; Unit: mg/dL, Turnaround Time: 00-01-30
